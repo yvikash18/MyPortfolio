@@ -28,7 +28,7 @@ export const projects = [
       " Implemented smooth and engaging animations using Framer Motion, a production-ready motion library specifically designed for React.",
       " Integrated EmailJs into the contact form feature to enable seamless email transmission directly from the frontend.",
     ],
-    liveLink: "https://aditya-agarwal.netlify.app/",
+    liveLink: "https://vikash.pages.dev/",
     githubLink: "https://github.com/yvikash18/MyPortfolio",
   },
 
