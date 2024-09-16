@@ -22,10 +22,10 @@ function ContactSection() {
       if (formik.isValid)
         emailjs
           .sendForm(
-            "service_akttvxf",
-            "template_r3e0vkb",
+            "service_mo1abob",
+            "template_4oh848e",
             form.current,
-            "JKMPUz_UMIju4Rhfi"
+            "VOWgTCS9Sl_z9NkNT"
           )
           .then(
             () => {
